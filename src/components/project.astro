@@ -77,7 +77,6 @@ const { name, description, url, image, projectbtn, previewbtn } = Astro.props;
         target="_blank"
         rel="noopener noreferrer"
         class="text-xs px-3 py-1 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
-        onClick={(e) => e.stopPropagation()}
       >
         <!-- Icono de un ojo (preview) -->
         <svg
@@ -100,7 +99,6 @@ const { name, description, url, image, projectbtn, previewbtn } = Astro.props;
       <a
         href="/projects"
         class="text-xs px-3 py-1 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
-        onClick={(e) => e.stopPropagation()}
       >
         <!-- Icono de carpeta -->
         <svg
