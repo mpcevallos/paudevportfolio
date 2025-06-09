@@ -4,9 +4,9 @@ import Button from "../button.astro";
 import Project from "../project.astro";
 ---
 
-<section class="max-w-4xl mx-auto px-7 lg:px-0">
+<section class="text-center w-full max-w-4xl mx-auto px-7 lg:px-0">
   <h2
-    class="text-2xl font-bold leading-10 tracking-tight text-neutral-900 dark:text-neutral-100"
+    class="text-3xl font-bold leading-10 tracking-tight text-neutral-900 dark:text-neutral-100"
   >
     My Projects
   </h2>
@@ -25,8 +25,10 @@ import Project from "../project.astro";
             description={project.description}
             image={project.image}
             url={project.url}
+            previewbtn="Preview"
+            projectbtn="Project"
           />
-        )
+        );
       })
     }
   </div>

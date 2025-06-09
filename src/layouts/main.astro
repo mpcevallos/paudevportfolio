@@ -2,7 +2,9 @@
 import Footer from "../components/footer.astro";
 import Header from "../components/header.astro";
 import SquareLines from "../components/square-lines.astro";
-const { title } = Astro.props;
+import "../assets/css/main.css";
+
+const { title, description } = Astro.props;
 ---
 
 <!doctype html>
@@ -10,34 +12,66 @@ const { title } = Astro.props;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{title}</title>
 
-    <!-- Used to add dark mode right away, adding here prevents any flicker -->
+    <!-- 👇 Aquí están tus etiquetas meta personalizadas -->
+    <title>{title}</title>
+    <meta name="description" content={description} />
+
+    <!-- Open Graph y Twitter Cards (opcional pero recomendado) -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tusitio.com" />
+    <meta property="og:image" content="https://tusitio.com/og-image.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content="https://tusitio.com/og-image.jpg" />
+
+    <!-- Dark mode init -->
     <script is:inline>
-      if (typeof Storage !== 'undefined') {
+      if (typeof Storage !== "undefined") {
         if (
-          localStorage.getItem('dark_mode') &&
-          localStorage.getItem('dark_mode') == 'true'
+          localStorage.getItem("dark_mode") &&
+          localStorage.getItem("dark_mode") == "true"
         ) {
-          document.documentElement.classList.add('dark')
+          document.documentElement.classList.add("dark");
         }
       }
     </script>
 
+    <!-- CSS -->
+    <link rel="stylesheet" href="../assets/css/main.css" />
     <style>
       .prose img {
         border-radius: 20px;
       }
     </style>
+
+    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="../assets/images/favicon.png" />
-    <script src="../assets/css/main.css"></script>
+
     <Fragment set:html={import.meta.env.HEADER_INJECT} />
   </head>
   <body class="antialiased bg-white dark:bg-neutral-950">
+    <!-- Círculos decorativos Map -->
+    {
+      Array.from({ length: 100 }).map(() => (
+        <div class="circle-container">
+          <div class="circle" />
+        </div>
+      ))
+    }
+
+    <!-- Layout -->
     <SquareLines />
     <Header />
     <slot />
     <Footer />
+
+    <!-- Scripts -->
+
     <script src="../assets/js/main.js"></script>
     <Fragment set:html={import.meta.env.FOOTER_INJECT} />
   </body>

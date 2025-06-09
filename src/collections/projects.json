@@ -1,38 +1,44 @@
 [
 	{
-		"name": "TempMail.Best",
+		"name": "PowerZone Fitness Web App",
 		"description": "Best Temporary Email.",
-		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
+		"image": "/assets/images/projects/powerzone-website.png",
+		"url": "https://powerzonefitness.netlify.app/"
 	},
 	{
-		"name": "DNS.Surf",
+		"name": "PowerZone Ecommerce",
 		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
+		"image": "/assets/images/projects/powerzone-store.png",
 		"url": "https://dns.surf"
 	},
 	{
-		"name": "HTML.ZONE",
+		"name": "TVCable Store Ecommerce",
 		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
+		"image": "/assets/images/projects/ecommerce-tvcablestore.jpg",
 		"url": "https://html.zone"
 	},
 	{
-		"name": "Sink",
+		"name": "App Mobile Prototype",
 		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
-		"image": "/assets/images/projects/sink.cool.png",
+		"image": "/assets/images/projects/appmovil.jpg",
 		"url": "https://sink.cool"
 	},
 	{
-		"name": "BroadcastChannel",
+		"name": "HBO Landing Page",
 		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
+		"image": "/assets/images/projects/hbo-landingpage.jpg",
 		"url": "https://github.com/ccbikai/BroadcastChannel"
+	},
+	{
+		"name": "Fox Landing Page",
+		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
+		"image": "/assets/images/projects/fox-landing-page.png",
+		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
 	},
 	{
 		"name": "L(O*62).ONG",
 		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"image": "/assets/images/projects/mmc-webapp.png",
+		"url": "https://mmc-tfm-frontend.netlify.app/"
 	}
 ]

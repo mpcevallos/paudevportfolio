@@ -1,11 +1,15 @@
 ---
-const { name, description, url, image } = Astro.props;
+const { name, description, url, image, projectbtn, previewbtn } = Astro.props;
 ---
 
-<a
-  href={url}
-  target="_blank"
-  class="relative flex flex-col items-stretch duration-300 ease-out p-7 sm:p-3 group h-100 rounded-2xl"
+<div
+  class="relative flex flex-col items-stretch duration-300 ease-out p-7 sm:p-3 group h-100 rounded-2xl cursor-pointer"
+  onclick={() => window.open(url, "_blank")}
+  role="link"
+  tabindex="0"
+  onKeyDown={(e) => {
+    if (e.key === "Enter" || e.key === " ") window.open(url, "_blank");
+  }}
 >
   <span
     class="absolute inset-0 z-20 block w-full h-full duration-300 ease-out bg-transparent border border-transparent border-dashed group-hover:-translate-x-1 group-hover:-translate-y-1 group-hover:border group-hover:border-neutral-300 dark:group-hover:border-neutral-600 group-hover:border-dashed rounded-2xl group-hover:bg-white dark:group-hover:bg-neutral-950"
@@ -17,7 +21,11 @@ const { name, description, url, image } = Astro.props;
     class="relative z-30 block duration-300 ease-out group-hover:-translate-x-1 group-hover:-translate-y-1"
   >
     <span class="block w-full">
-      <img src={image} class="w-full h-auto rounded-lg aspect-[16/9] object-cover" />
+      <img
+        src={image}
+        class="w-full aspect-video rounded-lg object-cover object-top"
+        alt={`Project image: ${name}`}
+      />
     </span>
     <span class="block w-full px-1 mt-5 mb-1 sm:mt-3">
       <span
@@ -57,9 +65,61 @@ const { name, description, url, image } = Astro.props;
           ></svg
         >
       </span>
-      <span class="text-sm text-neutral-600 dark:text-neutral-400 block truncate"
+      <span
+        class="text-sm text-neutral-600 dark:text-neutral-400 block truncate"
         >{description}</span
       >
     </span>
+
+    <div class="mt-4 flex gap-2 px-1">
+      <a
+        href={url}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="text-xs px-3 py-1 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <!-- Icono de un ojo (preview) -->
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="w-5 h-5 feather feather-link"
+          ><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"
+          ></path><path
+            d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"
+          ></path></svg
+        >
+      </a>
+
+      <!-- Botón de proyecto -->
+      <a
+        href="/projects"
+        class="text-xs px-3 py-1 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <!-- Icono de carpeta -->
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="w-5 h-5 feather feather-external-link"
+          ><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
+          ></path><polyline points="15 3 21 3 21 9"></polyline><line
+            x1="10"
+            y1="14"
+            x2="21"
+            y2="3"></line></svg
+        >
+      </a>
+    </div>
   </span>
-</a>
+</div>

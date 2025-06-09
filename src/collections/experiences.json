@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
+		"dates": "May 2013 – Present",
+		"role": "Chief Executive Officer - Freelancer",
+		"company": "SmartMedia Ecuador",
+		"description": "Managed corporate image projects, editorial design, and social media strategies. Designed and developed websites using CMS WordPress and provided training and consultancy to businesses and individuals.",
+		"logo": "/assets/images/experiences/logo-smartmedia-white.jpg"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
+		"dates": "June 2018 – January 2020",
+		"role": "Web Marketing Specialist",
+		"company": "Xtrim TVCable",
+		"description": "Created external communication materials, managed social media, and animated videos for marketing campaigns. Designed microsites for products and developed branding materials for mobile applications.",
+		"logo": "/assets/images/experiences/logo-xtrim.jpg"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
+		"dates": "March 2017 – September 2017",
+		"role": "Webmaster and Graphic Designer",
+		"company": "Hotel Oro Verde Guayaquil",
+		"description": "Designed communication materials and managed website administration. Developed email marketing campaigns and created microsites to support marketing efforts.",
+		"logo": "/assets/images/experiences/logo-oroverde-hotels.jpg"
 	}
 ]

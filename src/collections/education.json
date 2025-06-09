@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Master's in Full Stack Development",
+		"college": "Universitat Politècnica de Catalunya",
+		"year": "Apr 2023 - Jan 2025",
+		"skills": "JavaScript · Scrum · Agile Methodologies · React.js · Git · HTML5 · CSS · Tailwind CSS · Bootstrap · Node.js · Figma · Prototyping · Wireframing · Front-End Development · Back-End Web Development · Cybersecurity · Continuous Integration and Continuous Delivery (CI/CD) · Reactjs",
+		"city": "Barcelona, Spain.",
+		"logo": "/assets/images/education/upc-logoblue.jpeg"
+	},
+	{
+		"title": "Master's in Full Stack Development",
+		"college": "Inesdi Business Tech School",
+		"year": "Apr 2023 - Jan 2025",
+		"skills": "",
+		"city": "Barcelona, Spain.",
+		"logo": "/assets/images/education/inesdi_business_techschool_logo.jpeg"
+	},
+	{
+		"title": "Bachelor's Degree in Design Management and Visual Communication.",
+		"college": "Federico Santa Maria Technical University",
+		"year": "Jan 2008 - Dec 2012",
+		"skills": "Activities and societies: Marketing Director at Festival Adrenalina Audiovisual, December 2010. Recipient of the Deloitte Scholarship 2011 for academic excellence, May 2011. Skills: Web Design · Prototyping · Logo Design · Digital Marketing · Social Media Marketing · Advertising · Digital Communication · Gestión de proyectos · Project Management · Team Leadership · English · Photoshop · Adobe Creative Suite · Illustrator · InDesign · After Effects",
+		"city": "Valparaiso, Chile.",
+		"logo": "/assets/images/education/universidadsantamaria.jpg"
+	}
+]
