@@ -14,7 +14,7 @@ import Techstack from "../components/home/techstack.astro";
   <div
     class="relative z-20 w-full max-w-4xl mx-auto mt-16 px-7 md:mt-24 lg:mt-32 xl:px-0"
   >
-    <div class="flex flex-col md:flex-row md:items-start gap-10">
+    <div class="flex flex-col md:flex-row md:items-stretch gap-10">
       <div class="relative w-full md:w-1/2">
         <h1 class="text-4xl font-bold">
           Welcome, 👋<br />
@@ -99,47 +99,44 @@ import Techstack from "../components/home/techstack.astro";
           </Button>
         </div>
       </div>
-    </div>
-
-    <div
-      class="relative flex justify-end w-full md:w-1/2 md:pl-10 md:mt-0 mt-10"
-    >
-      <div class="relative z-50 w-full">
-        <div
-          class="absolute bottom-0 z-40 w-16 h-16 -translate-x-6 -translate-y-1/2 lg:top-auto top-0 lg:-translate-y-[330px] rounded-full"
-        >
-          <span
-            class="relative z-20 flex items-center justify-center w-full h-full text-2xl border-2 border-white rounded-full dark:border-slate-500 bg-slate-500 dark:bg-slate-500"
+      <div class="relative w-full md:w-1/2 md:pl-10 md:mt-0 mt-10">
+        <div class="relative z-50 w-full">
+          <div
+            class="absolute bottom-0 z-40 w-16 h-16 -translate-x-6 -translate-y-1/2 lg:top-auto top-0 lg:-translate-y-[330px] rounded-full"
           >
             <span
-              class="flex items-center justify-center w-full h-full rounded-full
-         bg-[#8739d0] shadow-[0_0_8px_#a855f7] text-white
-         border border-dashed border-[#9333ea] dark:bg-[#581c87]
-         dark:border-[#9333ea]"
+              class="relative z-20 flex items-center justify-center w-full h-full text-2xl border-2 border-white rounded-full dark:border-slate-500 bg-slate-500 dark:bg-slate-500"
             >
-              🤖
+              <span
+                class="flex items-center justify-center w-full h-full rounded-full
+           bg-[#8739d0] shadow-[0_0_8px_#a855f7] text-white
+           border border-dashed border-[#9333ea] dark:bg-[#581c87]
+           dark:border-[#9333ea]"
+              >
+                🤖
+              </span>
             </span>
-          </span>
-        </div>
-        <!-- <img src="/assets/images/female-astronaut.png" class="h-10 w-10"> -->
-        <div class="relative z-30 px-10">
-          <script
-            type="module"
-            src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
-          ></script>
+          </div>
+          <!-- <img src="/assets/images/female-astronaut.png" class="h-10 w-10"> -->
+          <div class="relative z-30 px-10">
+            <script
+              type="module"
+              src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"
+            ></script>
 
-          <model-viewer
-            class="avatar-animated"
-            src="https://models.readyplayer.me/6843affca6d7944841679ad3.glb"
-            alt="3D Avatar"
-            camera-controls
-            auto-rotate
-            disable-zoom
-            camera-orbit="0deg 82deg 4m"
-            field-of-view="26deg"></model-viewer>
-          <div
-            class="absolute bottom-0 right-0 z-20 w-full h-full lg:h-[420px] translate-x-0 -translate-y-px rounded-2xl border border-[#aa00ff]/20 bg-[#aa00ff]/5 backdrop-blur-md"
-          >
+            <model-viewer
+              class="avatar-animated"
+              src="https://models.readyplayer.me/6843affca6d7944841679ad3.glb"
+              alt="3D Avatar"
+              camera-controls
+              auto-rotate
+              disable-zoom
+              camera-orbit="0deg 82deg 4m"
+              field-of-view="26deg"></model-viewer>
+            <div
+              class="absolute bottom-0 right-0 z-20 w-full h-full lg:h-[420px] translate-x-0 -translate-y-px rounded-2xl border border-[#aa00ff]/20 bg-[#aa00ff]/5 backdrop-blur-md"
+            >
+            </div>
           </div>
         </div>
       </div>
