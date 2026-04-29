@@ -1,47 +1,47 @@
 [
 	{
 		"name": "PowerZone Fitness Web App",
-		"description": "Gym Website Development",
+		"description": "Gym Website Design & Development",
 		"image": "/assets/images/projects/powerzone-website.png",
 		"url": "https://powerzonefitness.netlify.app/",
 		"url2": "/post/powerzone-subscription-app"
 	},
 	{
 		"name": "PowerZone Ecommerce",
-		"description": "E-Commerce App",
+		"description": "UX/UI E-Commerce Prototype designed in Figma",
 		"image": "/assets/images/projects/powerzone-store.png",
 		"url": "https://www.figma.com/design/MO7Eja1gYLOKkYAFLaGMGw/PowerZone---eCommerce?node-id=4463-3029&t=3j4Otubw2FXrDKEP-1",
 		"url2": "/post/powerzone-ecommerce"
 	},
 	{
 		"name": "TVCable Store Ecommerce",
-		"description": "Built an online store to improve the Direct-to-Consumer (D2C) process, enhancing customer accessibility and streamlining the purchasing experience.",
+		"description": "Online Store for Direct-to-Consumer (D2C) Sales",
 		"image": "/assets/images/projects/ecommerce-tvcablestore.jpg",
 		"url": "https://www.behance.net/gallery/164905263/TVCable-Store-E-Commerce",
 		"url2": "/post/tvcable-store-ux-ui-web-design"
 	},
 	{
-		"name": "App Mobile Prototype",
-		"description": "Mobile App Design & Collaboration (Android & iOS)",
+		"name": "XTrim TVCable Mobile App",
+		"description": "UX/UI Mobile App Design & Prototype",
 		"image": "/assets/images/projects/appmovil.jpg",
 		"url": "/post/mobile-app-uxui-design",
 		"url2": "/post/mobile-app-uxui-design"
 	},
 	{
 		"name": "HBO Landing Page",
-		"description": "HBO Streaming Service Landing Page.",
+		"description": "HBO Streaming Landing Page.",
 		"image": "/assets/images/projects/hbo-landingpage.jpg",
 		"url2": "/post/hbo-streaming-landing-page"
 	},
 	{
 		"name": "Fox Landing Page",
-		"description": "FOX App Landing Page",
+		"description": "FOX Streaming Landing Page",
 		"image": "/assets/images/projects/fox-landing-page.png",
 		"url2": "/post/fox-streaming-landing-page"
 	},
 	{
-		"name": "Metabolical Medical Center Web App",
-		"description": "Platform that enables patients to create an account with a username and password, access a control panel for managing medical appointments with their doctors, browse the medical center's available specialties, and update their personal information.",
+		"name": "Metabolical Medical Center",
+		"description": "Medical Appointments Web App",
 		"image": "/assets/images/projects/mmc-webapp.png",
 		"url": "https://mmc-tfm-frontend.netlify.app/",
 		"url2": "/post/metabolic-medical-center-app"
