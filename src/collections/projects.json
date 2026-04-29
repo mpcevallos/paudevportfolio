@@ -3,42 +3,49 @@
 		"name": "PowerZone Fitness Web App",
 		"description": "Best Temporary Email.",
 		"image": "/assets/images/projects/powerzone-website.png",
-		"url": "https://powerzonefitness.netlify.app/"
+		"url": "https://powerzonefitness.netlify.app/",
+		"url2": "/post/powerzone-subscription-app"
 	},
 	{
 		"name": "PowerZone Ecommerce",
 		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
 		"image": "/assets/images/projects/powerzone-store.png",
-		"url": "https://dns.surf"
+		"url": "https://dns.surf",
+		"url2": "/post/powerzone-ecommerce"
 	},
 	{
 		"name": "TVCable Store Ecommerce",
 		"description": "Web Toolbox.",
 		"image": "/assets/images/projects/ecommerce-tvcablestore.jpg",
-		"url": "https://html.zone"
+		"url": "/post/tvcable-store-ux-ui-web-design",
+		"url2": "/post/tvcable-store-ux-ui-web-design"
 	},
 	{
 		"name": "App Mobile Prototype",
 		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
 		"image": "/assets/images/projects/appmovil.jpg",
-		"url": "https://sink.cool"
+		"url": "https://sink.cool",
+		"url2": "/post/mobile-app-uxui-design"
 	},
 	{
 		"name": "HBO Landing Page",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
+		"description": "A simple landing page for a fictional company.",
 		"image": "/assets/images/projects/hbo-landingpage.jpg",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
+		"url": "https://github.com/ccbikai/BroadcastChannel",
+		"url2": "/post/hbo-streaming-landing-page"
 	},
 	{
 		"name": "Fox Landing Page",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
+		"description": "A simple landing page for a fictional company.",
 		"image": "/assets/images/projects/fox-landing-page.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong",
+		"url2": "/post/fox-streaming-landing-page"
 	},
 	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
+		"name": "Metabolical Medical Center Web App",
+		"description": "Platform that enables patients to create an account with a username and password, access a control panel for managing medical appointments with their doctors, browse the medical center's available specialties, and update their personal information.",
 		"image": "/assets/images/projects/mmc-webapp.png",
-		"url": "https://mmc-tfm-frontend.netlify.app/"
+		"url": "https://mmc-tfm-frontend.netlify.app/",
+		"url2": "/post/metabolic-medical-center-app"
 	}
 ]

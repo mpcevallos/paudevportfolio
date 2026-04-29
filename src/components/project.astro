@@ -1,5 +1,5 @@
 ---
-const { name, description, url, image } = Astro.props;
+const { name, description, url, url2, image } = Astro.props;
 ---
 
 <div
@@ -76,8 +76,9 @@ const { name, description, url, image } = Astro.props;
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        title="Ver proyecto"
-        aria-label="Ver proyecto"
+        set:text="Demo"
+        title="Demo"
+        aria-label="Demo"
         class="text-xs p-2 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
       >
         <svg
@@ -97,29 +98,35 @@ const { name, description, url, image } = Astro.props;
         </svg>
       </a>
 
-      <!-- Botón 2: Ver todos los proyectos -->
-      <a
-        href="/projects"
-        title="Todos los proyectos"
-        aria-label="Todos los proyectos"
-        class="text-xs p-2 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
-      >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          class="w-4 h-4"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        >
-          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"
-          ></path>
-          <polyline points="15 3 21 3 21 9"></polyline>
-          <line x1="10" y1="14" x2="21" y2="3"></line>
-        </svg>
-      </a>
+      <!-- Botón 2: Ver proyecto en nueva ventana -->
+      {
+        url2 && (
+          <a
+            href={url2}
+            target="_blank"
+            rel="noopener noreferrer"
+            set:text="View Project"
+            title="View Project"
+            aria-label="View Project"
+            class="text-xs p-2 font-medium text-white rounded-md transition backdrop-blur-sm bg-purple-700/40 border border-purple-500 hover:bg-purple-700/60 flex items-center justify-center"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="w-4 h-4"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+              <polyline points="15 3 21 3 21 9" />
+              <line x1="10" y1="14" x2="21" y2="3" />
+            </svg>
+          </a>
+        )
+      }
     </div>
   </span>
 </div>

@@ -1,0 +1,40 @@
+---
+import Layout from "../../layouts/main.astro";
+import { getCollection, getEntry } from "astro:content";
+import "../../assets/css/main.css"; // ← ¡importante!
+
+export async function getStaticPaths() {
+  const entries = await getCollection("projects");
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+const entry = await getEntry("projects", slug);
+const { title, image, description, link } = entry.data;
+const { Content } = await entry.render();
+---
+
+<Layout>
+  <article class="prose dark:prose-invert max-w-none px-4 py-6">
+    <h1>{title}</h1>
+    {image && <img src={image} alt={title} class="my-4 rounded shadow" />}
+    {description && <p class="text-lg mb-4">{description}</p>}
+    {
+      link && (
+        <p class="mb-4">
+          <a
+            href={link}
+            target="_blank"
+            rel="noopener"
+            class="text-blue-500 hover:underline"
+          >
+            Visitar Proyecto
+          </a>
+        </p>
+      )
+    }
+    <Content />
+  </article>
+</Layout>
