@@ -121,61 +121,70 @@ import Techstack from "../components/home/techstack.astro";
               <!-- 🤖 -->
             </span>
           </div>
-          <img src="/assets/images/about/avatarmp.png" class="h-[500px]" />
+          <div class="relative z-30 px-10">
+            <img
+              src="/assets/images/about/avatarmp.png"
+              class="relative z-30 h-[500px]"
+            />
+            <div
+              class="absolute bottom-0 right-0 z-20 w-full h-full lg:h-[420px] translate-x-0 -translate-y-px rounded-2xl border border-[#aa00ff]/20 bg-[#aa00ff]/5 backdrop-blur-md"
+            >
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <Separator text="Tech Stack" />
-  <Techstack />
-  <Separator text="Recent Projects" />
-  <Projects />
+    <Separator text="Tech Stack" />
+    <Techstack />
+    <Separator text="Recent Projects" />
+    <Projects />
 
-  <script>
-    const texts = [
-      "Maria Paula (PauDev)",
-      "a Web Designer",
-      "a UI/UX Specialist",
-      "a Frontend Developer",
-    ];
+    <script>
+      const texts = [
+        "Maria Paula (PauDev)",
+        "a Web Designer",
+        "a UI/UX Specialist",
+        "a Frontend Developer",
+      ];
 
-    const animatedText = document.getElementById("animated-text");
+      const animatedText = document.getElementById("animated-text");
 
-    function typeWriter(text, i = 0) {
-      if (i < text.length) {
-        animatedText.textContent += text.charAt(i);
-        setTimeout(() => typeWriter(text, i + 1), 100);
-      } else {
-        setTimeout(() => eraseText(), 2000);
-      }
-    }
-
-    function eraseText() {
-      const text = animatedText.textContent;
-      let i = text.length;
-      function erase() {
-        if (i > 0) {
-          animatedText.textContent = text.substring(0, i - 1);
-          i--;
-          setTimeout(erase, 50);
+      function typeWriter(text, i = 0) {
+        if (i < text.length) {
+          animatedText.textContent += text.charAt(i);
+          setTimeout(() => typeWriter(text, i + 1), 100);
         } else {
-          currentTextIndex = (currentTextIndex + 1) % texts.length;
-          typeWriter(texts[currentTextIndex]);
+          setTimeout(() => eraseText(), 2000);
         }
       }
-      erase();
-    }
 
-    let currentTextIndex = 0;
-    typeWriter(texts[currentTextIndex]);
-  </script>
+      function eraseText() {
+        const text = animatedText.textContent;
+        let i = text.length;
+        function erase() {
+          if (i > 0) {
+            animatedText.textContent = text.substring(0, i - 1);
+            i--;
+            setTimeout(erase, 50);
+          } else {
+            currentTextIndex = (currentTextIndex + 1) % texts.length;
+            typeWriter(texts[currentTextIndex]);
+          }
+        }
+        erase();
+      }
 
-  <style>
-    .text-gradient {
-      background: linear-gradient(90deg, #ff00ff, #aa00ff, #8a2be2);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-  </style>
+      let currentTextIndex = 0;
+      typeWriter(texts[currentTextIndex]);
+    </script>
+
+    <style>
+      .text-gradient {
+        background: linear-gradient(90deg, #ff00ff, #aa00ff, #8a2be2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    </style>
+  </div>
 </Layout>
