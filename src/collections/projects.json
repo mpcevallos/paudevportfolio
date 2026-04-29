@@ -1,44 +1,41 @@
 [
 	{
 		"name": "PowerZone Fitness Web App",
-		"description": "Best Temporary Email.",
+		"description": "Gym Website Development",
 		"image": "/assets/images/projects/powerzone-website.png",
 		"url": "https://powerzonefitness.netlify.app/",
 		"url2": "/post/powerzone-subscription-app"
 	},
 	{
 		"name": "PowerZone Ecommerce",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
+		"description": "E-Commerce App",
 		"image": "/assets/images/projects/powerzone-store.png",
-		"url": "https://dns.surf",
+		"url": "https://www.figma.com/design/MO7Eja1gYLOKkYAFLaGMGw/PowerZone---eCommerce?node-id=4463-3029&t=3j4Otubw2FXrDKEP-1",
 		"url2": "/post/powerzone-ecommerce"
 	},
 	{
 		"name": "TVCable Store Ecommerce",
-		"description": "Web Toolbox.",
+		"description": "Built an online store to improve the Direct-to-Consumer (D2C) process, enhancing customer accessibility and streamlining the purchasing experience.",
 		"image": "/assets/images/projects/ecommerce-tvcablestore.jpg",
-		"url": "/post/tvcable-store-ux-ui-web-design",
+		"url": "https://www.behance.net/gallery/164905263/TVCable-Store-E-Commerce",
 		"url2": "/post/tvcable-store-ux-ui-web-design"
 	},
 	{
 		"name": "App Mobile Prototype",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
+		"description": "Mobile App Design & Collaboration (Android & iOS)",
 		"image": "/assets/images/projects/appmovil.jpg",
-		"url": "https://sink.cool",
 		"url2": "/post/mobile-app-uxui-design"
 	},
 	{
 		"name": "HBO Landing Page",
-		"description": "A simple landing page for a fictional company.",
+		"description": "HBO Streaming Service Landing Page.",
 		"image": "/assets/images/projects/hbo-landingpage.jpg",
-		"url": "https://github.com/ccbikai/BroadcastChannel",
 		"url2": "/post/hbo-streaming-landing-page"
 	},
 	{
 		"name": "Fox Landing Page",
-		"description": "A simple landing page for a fictional company.",
+		"description": "FOX App Landing Page",
 		"image": "/assets/images/projects/fox-landing-page.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong",
 		"url2": "/post/fox-streaming-landing-page"
 	},
 	{
