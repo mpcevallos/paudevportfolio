@@ -1,9 +1,11 @@
 ---
-const { link, text } = Astro.props;
+const { link, text, target, rel, class: className } = Astro.props;
 ---
 
 <a
   href={link}
+  target={target}
+  rel={rel}
   class="inline-flex items-center gap-2 w-auto px-4 py-2 mt-5 text-xs font-semibold duration-300 ease-out rounded-md transition backdrop-blur-sm bg-purple-700/40 border hover:bg-purple-700/60 dark:bg-black/10 dark:text-neutral-300 text-purple-900 hover:border-neutral-700 border-purple-500 dark:hover:border-purple-700/40 hover:bg-purple-500 dark:hover:bg-purple-900 dark:hover:text-neutral-5600 hover:text-white"
 >
   <slot name="icon" />
