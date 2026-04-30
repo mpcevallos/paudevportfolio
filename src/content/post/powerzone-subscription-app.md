@@ -62,11 +62,29 @@ Contributed to frontend implementation using React, JavaScript, and Tailwind CSS
 
 ---
 
-### Interactive Prototype
+### Figma Prototype
 
-A fully interactive prototype was built in Figma, covering the core user flows — from exploring gym locations and trainer profiles to browsing and selecting a subscription plan. Available for live preview below.
+**First Wireframe & Prototype**
 
-→
+The first iteration focused on mapping the core user flows before any visual decisions were made. This phase covered the foundational design system — typography, color palette, buttons, and icons — alongside the key screens: homepage, hero section, CTA, gym locations, trainer profiles, and subscription plan browsing. Together, these established the structure, visual language, and navigation logic that would guide every decision moving forward.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/pl1FmD9aQCRQmASY08gO8w/PowerZone?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+<br>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/pl1FmD9aQCRQmASY08gO8w/PowerZone?node-id=2-40&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+
+---
+
+**Final Interactive Prototype**
+
+After 2 to 3 iteration rounds — including a full redesign of the Subscription Plans section to reduce cognitive load — the design expanded to cover both desktop and mobile versions. Special attention was given to maintaining visual consistency and responsive behavior across breakpoints, ensuring the experience felt equally polished on every screen size. The final prototype reflects a complete, handoff-ready design system.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=4791-419&embed-host=share" allowfullscreen></iframe>
+
+<br>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=5030-2304&p=f&scaling=scale-down&content-scaling=fixed&page-id=4791%3A419&embed-host=share" allowfullscreen></iframe>
 
 ---
 
@@ -78,14 +96,24 @@ A fully interactive prototype was built in Figma, covering the core user flows �
 - Framework: React + Node.js
 - Styling: Tailwind CSS
 
+**First Wireframe & Prototype**
+
+The first iteration focused on mapping the core user flows before any visual decisions were made. This phase covered the foundational design system — typography, color palette, buttons, and icons — alongside the key screens: homepage, hero section, CTA, gym locations, trainer profiles, and subscription plan browsing. Together, these established the structure, visual language, and navigation logic that would guide every decision moving forward.
+
 **Backend**
 
 - Framework: Express.js
 - Database: PostgreSQL
 - Authentication: JWT (JSON Web Tokens)
 
+[Backend Git Repository →](https://github.com/mpcevallos/Backend_gym)
+
 ---
 
 ### Value Delivered
 
 A fully deployed frontend that solves the core fitness user journey: discover, compare, and subscribe. The visual system was designed from scratch, validated with the team, and refined based on real feedback — with people saying the platform made them actually want to sign up for a gym. The architecture is ready to scale toward active authentication and membership management once backend hosting is reinstated.
+
+## Deployment
+
+[Backend Git Repository →](https://paudevportfolio.netlify.app/)
