@@ -1,0 +1,247 @@
+[33mcommit 2d98efb8cdf5d3345fbe54fa60e976bc3cbd32e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 14:24:25 2026 -0500
+
+    Update: changes on json
+
+[33mcommit 7ab25faed81b067a61f836805a66fca8bb9437e7[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 14:18:20 2026 -0500
+
+    Update: projects
+
+[33mcommit 7bd6f8bbc313a576d51f97b0e4d8d5779114686a[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 14:15:31 2026 -0500
+
+    update projects content
+
+[33mcommit 31bff9900fad9f2f020ad27d4aac77459af62189[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 13:59:28 2026 -0500
+
+    add sharp dependency
+
+[33mcommit 5047004101c8853521075dacba2e61c9beac19ae[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 13:55:42 2026 -0500
+
+    add sharp for astro image optimization
+
+[33mcommit dd7905c39cf06f3d24598eda995b3db5dd5d62b3[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 13:28:08 2026 -0500
+
+    Updating button and project component
+
+[33mcommit 3dfdbc55d1c30c931174c00b241c40370ad17b52[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 12:49:32 2026 -0500
+
+    Updating index
+
+[33mcommit 0e5b47e9576dcdbfede2a1793c3400683c2c0ed8[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Apr 29 12:25:18 2026 -0500
+
+    Updating Avatar
+
+[33mcommit b6a3541d8eb2e908f929ab5e98058b0ae2f11698[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Wed Jun 11 15:42:05 2025 -0500
+
+    styles: Changing Robot Emoji for Female Astronaut Emoji
+
+[33mcommit ad21b90c89bf3f4d84dfc6b24f6f4a09470d042a[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 21:52:08 2025 -0500
+
+    fix: Changes in about.astro
+
+[33mcommit 6580ea09818c5b369afdc1ab90e384298aeb7875[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 21:45:25 2025 -0500
+
+    fix: Change email subject
+
+[33mcommit 62af334214ef2a126e45287db0dce190f9c25178[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 21:35:42 2025 -0500
+
+    styles: Adding padding bottom to Typewriter Text Effect Message
+
+[33mcommit e7178b162fb9b4780f8023f793b610cea90d81f2[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 21:25:43 2025 -0500
+
+    fix: Correct What can I do for you section
+
+[33mcommit 926e1ea822478b5c68bc0d07cdd20f9b0ba022ab[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 20:53:28 2025 -0500
+
+    styles: Adding css classes aspect-video object-cover object-top
+
+[33mcommit 55b610c7e0a596257ebfeca49822b9124f579d2b[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 20:39:59 2025 -0500
+
+    fix: Fixing Building issues on project.astro
+
+[33mcommit 5315e81c6b94b9ce42669e873354a967364189df[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 19:07:57 2025 -0500
+
+    fix: Links on buttons correction
+
+[33mcommit eeace25629b90dcce36595d6e4c865082141c928[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 15:18:05 2025 -0500
+
+    fix: Correcting Building issues
+
+[33mcommit 8bf2c69b3b5a41509ebc808acf62bc51281903cf[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 15:11:08 2025 -0500
+
+    fix: Fixing Avatar Alignment
+
+[33mcommit 2e58cb61ed8991554079a95fa47f3e23547d455e[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 14:55:15 2025 -0500
+
+    fix: Structure correction
+
+[33mcommit 332ac19425daf5659f8f2cfdc71a43e70df25305[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 14:45:39 2025 -0500
+
+    Readme Changes
+
+[33mcommit 86ec2f42439060f8803caade592c7869ebfa4052[m
+Author: Maria Paula Cevallos <mpcevallos@gmail.com>
+Date:   Mon Jun 9 14:40:13 2025 -0500
+
+    First commit
+
+[33mcommit 15c6eb8143ac55f9ba8d925b43f973ceef046980[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Fri Apr 25 08:23:13 2025 +0800
+
+    feat: Run MCP Server in a Docker sandbox
+
+[33mcommit 3bdddc54b74ee0b313281aa731ec99da2e755195[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Mon Apr 21 21:09:31 2025 +0800
+
+    feat: Use Cloudflare Workers to concat audio files
+
+[33mcommit 5ba3d55a1b79f816ace9e51a0c171dda10b17ec7[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Sun Apr 13 12:17:41 2025 +0800
+
+    buymeacoffee
+
+[33mcommit d4c282b2374e3431ad82a392c9dcfc6e3076eee5[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Mon Jan 6 12:14:04 2025 +0800
+
+    fix: update image links and alignment in blog posts
+    
+    Removes left alignment from Cloudflare PyPI mirror image
+    Updates Office File to Markdown image URL to use direct hosting
+
+[33mcommit 2d9b30a012f0c1ce5be53d1e3a54194c10b8801d[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Sun Dec 29 14:25:10 2024 +0800
+
+    fix: update Twitter/X social links
+    
+    Updates all social media links from twitter.com to x.com domain
+    Updates user handle reference in blog post link
+    Maintains consistent branding across the site
+
+[33mcommit 46fe131653e1889af183186b81b8d182596714f3[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Sun Dec 29 12:23:14 2024 +0800
+
+    refactor(date): standardize date format in blog posts
+
+[33mcommit f053688c33180b046de7b91a32bb6f7be1a0b269[m
+Merge: b4adf2c bde00ea
+Author: ccbikai <ccbikai@qq.com>
+Date:   Sat Dec 14 21:15:35 2024 +0800
+
+    Merge branch 'main' of github.com:ccbikai/astro-aria
+
+[33mcommit b4adf2cda1b4a89e9439aaf6662121421d015161[m
+Author: ccbikai <ccbikai@qq.com>
+Date:   Sat Dec 14 21:15:14 2024 +0800
+
+    fix: update social media link url
+    
+    Replace X (Twitter) profile URL with a new shortlink format
+    Changes direct twitter.com link to use 404.li/x redirect
+    
+    This maintains the same functionality while using a more maintainable URL structure.
+
+[33mcommit bde00ead0b2268dba6fa153e526bfa6303ef18dc[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Fri Nov 22 19:23:35 2024 +0800
+
+    docs: update project description for TempMail.Best
+    
+    Changes the description to better reflect the service's value proposition and brand positioning
+
+[33mcommit 3fb9d7ba5a45fe16e1a8512e0959d2e44662cb96[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Fri Nov 22 19:20:57 2024 +0800
+
+    refactor: update temporary email project branding
+    
+    Changes Email.ML branding to TempMail.Best
+    Updates project image and URL references
+    Removes obsolete email.ml asset
+    
+    The rebranding aims to better reflect the service's purpose and improve discoverability.
+
+[33mcommit e6d33328d62bec9fbb82027cb9792ccf5191e295[m
+Merge: ff173a7 968f204
+Author: 面条 <2959393+ccbikai@users.noreply.github.com>
+Date:   Sat Nov 2 16:19:18 2024 +0800
+
+    Merge pull request #3 from parker-codes/fix/experience-trailing-borders
+    
+    fix: experiences list border could only support 2 items
+
+[33mcommit ff173a7b0707fe4a76a33ad4b14f72342c71ff72[m
+Merge: 3e169d5 7a09ac8
+Author: 面条 <2959393+ccbikai@users.noreply.github.com>
+Date:   Sat Nov 2 16:18:30 2024 +0800
+
+    Merge pull request #2 from parker-codes/feat/dark-browser-elements
+    
+    feat: utilize dark browser elements like scrollbar
+
+[33mcommit 3e169d505059bc4d3890ced07c4980efe9456cef[m
+Merge: 319a2fb b66039f
+Author: 面条 <2959393+ccbikai@users.noreply.github.com>
+Date:   Sat Nov 2 16:17:48 2024 +0800
+
+    Merge pull request #4 from hananurrehman/sort-blog-posts-by-date
+    
+    fix: Sort posts by date with latest appearing first
+
+[33mcommit b66039fc7c200a4ff6640b50763dabff642bca3b[m
+Author: Hanan <16245934+hananurrehman@users.noreply.github.com>
+Date:   Fri Nov 1 01:19:09 2024 +0100
+
+    fix: Sort posts by date with latest appearing first
+
+[33mcommit 319a2fbdf81e5f86f59505eba9c6ffbfc087aacb[m
+Author: ccbikai <ccbikai@gmail.com>
+Date:   Mon Oct 21 20:42:08 2024 +0800
+
+    feat: add new projects and update UI components
+    
+    Enhanced project showcase by adding three new entries, each with detailed descriptions and associated images. Adjusted grid layout to ensure responsiveness across differen
