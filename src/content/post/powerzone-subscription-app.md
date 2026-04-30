@@ -67,7 +67,11 @@ Contributed to frontend implementation using React, JavaScript, and Tailwind CSS
 
 A fully interactive prototype was built in Figma, covering the core user flows — from exploring gym locations and trainer profiles to browsing and selecting a subscription plan. Available for live preview below.
 
-→ [Add Figma link here]
+→ <Button
+  link="https://tu-link-de-figma.com"
+  target="_blank"
+  text="View Prototype"
+/>
 
 ---
 
