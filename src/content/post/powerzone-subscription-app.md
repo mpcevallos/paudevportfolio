@@ -116,4 +116,4 @@ A fully deployed frontend that solves the core fitness user journey: discover, c
 
 ## Deployment
 
-[Backend Git Repository →](https://paudevportfolio.netlify.app/)
+[Preview →](https://powerzonefitness.netlify.app/)
