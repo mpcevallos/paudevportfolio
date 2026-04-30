@@ -1,5 +1,4 @@
 ---
-import Button from "../components/button.astro";
 layout: ../../layouts/post.astro
 title: PowerZone Gym Website Subscription App
 description: PowerZone is a comprehensive platform that serves as both a gym information portal and an e-commerce application. Users can access information about gym locations and trainers, purchase training plans, and shop for fitness products online.
@@ -67,11 +66,7 @@ Contributed to frontend implementation using React, JavaScript, and Tailwind CSS
 
 A fully interactive prototype was built in Figma, covering the core user flows — from exploring gym locations and trainer profiles to browsing and selecting a subscription plan. Available for live preview below.
 
-→ <Button
-  link="https://tu-link-de-figma.com"
-  target="_blank"
-  text="View Prototype"
-/>
+→
 
 ---
 
