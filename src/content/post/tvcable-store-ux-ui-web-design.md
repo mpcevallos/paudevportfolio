@@ -1,36 +1,104 @@
 ---
 layout: ../../layouts/post.astro
 title: TVCable Store UX UI Web Design
-description: A short link system based on Cloudflare with visit statistics
+description: The first e-commerce platform for Grupo TVCable — a fully deployed online store designed to modernize the purchase experience for TV, internet, telephony, and streaming services across Ecuador.
 dateFormatted: Jun 4th, 2024
 ---
 
-![alt text](../../../public/assets/images/projects/ecommerce-tvcablestore.jpg)
+![TVCable Store eCommerce](../../../public/assets/images/projects/ecommerce-tvcablestore.jpg)
 
-## Features
+> **TVCable had been in the Ecuadorian market for years — but with no online store, every sale still depended on a physical process. I was brought in to change that: naming the brand, designing the store, and delivering an experience modern enough to compete and convert.**
 
-- Led the UX/UI design for a WordPress-based website, focusing on user-centered design principles and enhancing overall usability.
+### Project Overview
 
-Collaborated with the development team to implement geolocation features, allowing users to access tailored content based on their location.
+TVCable Store was the first e-commerce platform for Grupo TVCable — a company with deep roots in the Ecuadorian market but no digital purchase channel. The goal was to close that gap: give users the ability to browse, compare, and contract TV, internet, telephony, and streaming services entirely online, without friction and without a physical visit.
 
-Created wireframes, prototypes, and final designs to ensure a seamless user experience across various devices.
+The project went from concept to live deployment, working alongside the IT department to implement a solution built on an existing template — adapted, modernized, and aligned with the company's brand guidelines.
 
-Utilized Adobe Photoshop and other design tools to develop visually appealing and functional web layouts.
+---
 
-## Demo
+### Role
 
-[Sink.Cool](https://sink.cool/dashboard)
+UX/UI Designer · Team of 3 (Design + IT)
 
-### Site-wide Analysis
+---
 
-![Site-wide Analysis](https://static.miantiao.me/share/CBuVes/sink.cool_dashboard.png)
+### Strategic Context
 
-<details>
-  <summary><b>Link Management</b></summary>
-  <img alt="Link Management" src="https://static.miantiao.me/share/uQVX7Q/sink.cool_dashboard_links.png"/>
-</details>
+The absence of an e-commerce channel was a direct competitive disadvantage — TVCable's competitors already had online purchase flows, and the company was losing potential customers to a slower, more friction-heavy sales process. Beyond acquisition, a digital store also meant better sales tracking, reduced operational overhead, and a significantly improved customer experience from first contact to contract.
 
-<details>
-  <summary><b>Individual Link Analysis</b></summary>
-  <img alt="Individual Link Analysis" src="https://static.miantiao.me/share/WfyCXT/sink.cool_dashboard_link_slug=0.png"/>
-</details>
+---
+
+### Brand & Visual Direction
+
+TVCable Store was named and designed as its own brand identity within the TVCable ecosystem — distinct enough to feel modern, grounded enough to carry the company's established trust.
+
+- Brand name created from scratch for the e-commerce channel
+- Design built on an existing template, fully adapted to TVCable's brand guidelines
+- Typography refreshed — new typeface selection within the brand framework to bring a more contemporary feel to a company with decades in the market
+- Color palette leaned toward youthful, energetic tones — targeting an audience between 18 and 60 without alienating either end
+- Strategic promotional banners designed to drive conversion at key moments in the browsing flow
+
+---
+
+### Promotional Video
+
+---
+
+### UX Flow & Screen Design
+
+**Homepage**
+
+![TVCable Store Homepage]
+
+---
+
+**Internet Service Page**
+
+![TVCable Internet]
+
+---
+
+**TV Service Page**
+
+![TVCable TV]
+
+---
+
+**Streaming Service Page**
+
+![TVCable Streaming]
+
+---
+
+**Coverage Catalog**
+
+The coverage catalog allowed users to browse available plans filtered by city — covering all locations with national service availability across Ecuador.
+
+![TVCable Coverage Catalog]
+
+---
+
+**Login & Registration**
+
+![TVCable Login]
+
+---
+
+**Checkout**
+
+![TVCable Checkout]
+
+---
+
+### Tools
+
+- Adobe Photoshop — image editing, layout composition, and visual design
+- Adobe Illustrator — graphic assets and brand elements
+- WordPress — implementation platform, in collaboration with the IT department
+
+---
+
+### Value Delivered
+
+TVCable Store launched as the company's first digital sales channel — transforming a fully physical sales process into a streamlined online experience. The design balanced brand consistency with a modernized visual language, making the platform approachable for a broad audience while giving the company a competitive tool it had been missing. The result: a live, deployed e-commerce platform that reduced friction in the purchase process and opened a new acquisition channel at scale.
