@@ -68,11 +68,28 @@ Contributed to frontend implementation using React, JavaScript, and Tailwind CSS
 
 The first iteration focused on mapping the core user flows before any visual decisions were made. This phase covered the foundational design system — typography, color palette, buttons, and icons — alongside the key screens: homepage, hero section, CTA, gym locations, trainer profiles, and subscription plan browsing. Together, these established the structure, visual language, and navigation logic that would guide every decision moving forward.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/pl1FmD9aQCRQmASY08gO8w/PowerZone?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+<!-- Desktop: visible solo en pantallas >= 768px -->
 
-<br>
+<div style="display: none;" class="figma-desktop">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0,0,0,0.1);"
+      src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=5030-2304&embed-host=share"
+      allowfullscreen
+      loading="lazy"
+    ></iframe>
+  </div>
+</div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/pl1FmD9aQCRQmASY08gO8w/PowerZone?node-id=2-40&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+<!-- Mobile -->
+<div class="figma-mobile">
+  <img src="/assets/images/projects/home-first-iteration.png" style="width: 100%; border-radius: 8px;" />
+  <a href="https://figma.com/proto/pl1FmD9aQCRQmASY08gO8w/" target="_blank"
+     style="display: inline-block; margin-top: 12px; color: #a855f7; text-decoration: underline;">
+  </a>
+</div>
+
+[Preview Prototype→](https://www.figma.com/design/pl1FmD9aQCRQmASY08gO8w/PowerZone?node-id=0-1&t=4bM2VAZhDih0UACy-1)
 
 ---
 
@@ -80,13 +97,47 @@ The first iteration focused on mapping the core user flows before any visual dec
 
 After 2 to 3 iteration rounds — including a full redesign of the Subscription Plans section to reduce cognitive load — the design expanded to cover both desktop and mobile versions. Special attention was given to maintaining visual consistency and responsive behavior across breakpoints, ensuring the experience felt equally polished on every screen size. The final prototype reflects a complete, handoff-ready design system.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=4791-419&embed-host=share" allowfullscreen></iframe>
+<!-- Desktop: visible solo en pantallas >= 768px -->
 
-<br>
+<div style="display: none;" class="figma-desktop">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0,0,0,0.1);"
+      src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=5030-2304&embed-host=share"
+      allowfullscreen
+      loading="lazy"
+    ></iframe>
+  </div>
+</div>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=5030-2304&p=f&scaling=scale-down&content-scaling=fixed&page-id=4791%3A419&embed-host=share" allowfullscreen></iframe>
+<!-- Mobile -->
+
+<div class="figma-mobile">
+  <img src="/assets/images/projects/powerzone-home.png" style="width: 100%; border-radius: 8px;" />
+  <a href="https://figma.com/proto/pl1FmD9aQCRQmASY08gO8w/" target="_blank"
+     style="display: inline-block; margin-top: 12px; color: #a855f7; text-decoration: underline;">
+  </a>
+</div>
+
+<style>
+  @media (min-width: 768px) {
+    .figma-desktop { display: block !important; }
+    .figma-mobile { display: none; }
+  }
+</style>
 
 ---
+
+**Mobile-First**
+
+Mobile-first was the foundation of every design decision in PowerZone. Building with Tailwind CSS made it natural to start from the smallest viewport and scale up — ensuring that browsing plans, exploring locations, and meeting trainers felt seamless on the device most users actually reach for.
+
+<div class="powerzone-mobile">
+  <img
+    src="/assets/images/projects/powerzone-mobile-preview.png"
+    style="width: 270px; border-radius: 8px;"
+  />
+</div>
 
 ### Tech Stack
 
@@ -95,10 +146,6 @@ After 2 to 3 iteration rounds — including a full redesign of the Subscription 
 - Design: Figma — wireframes, UI mockups, interactive prototype
 - Framework: React + Node.js
 - Styling: Tailwind CSS
-
-**First Wireframe & Prototype**
-
-The first iteration focused on mapping the core user flows before any visual decisions were made. This phase covered the foundational design system — typography, color palette, buttons, and icons — alongside the key screens: homepage, hero section, CTA, gym locations, trainer profiles, and subscription plan browsing. Together, these established the structure, visual language, and navigation logic that would guide every decision moving forward.
 
 **Backend**
 
