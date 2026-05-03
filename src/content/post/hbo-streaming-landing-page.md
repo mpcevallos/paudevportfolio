@@ -1,31 +1,51 @@
 ---
 layout: ../../layouts/post.astro
 title: HBO Streaming Service Landing Page
-description: This landing page was designed to promote the HBO streaming service, aiming to enhance user engagement and drive subscriptions. I collaborated closely with the development team to ensure a seamless user experience and effective functionality.
-dateFormatted: Dec 31, 2024
+description: A landing page designed for Xtrim / Grupo TVCable to promote the HBO streaming service in Ecuador — driving new subscriptions and retaining existing clients through clear messaging and strong visual storytelling.
+dateFormatted: Dec 31, 2018
 ---
-
-## Project Overview
-
-This landing page was designed to promote the HBO streaming service, aiming to enhance user engagement and drive subscriptions. I collaborated closely with the development team to ensure a seamless user experience and effective functionality.
 
 ![HBO Streaming Service Landing Page](../../../public/assets/images/projects/hbo-landingpage.jpg)
 
-## Key Features:
+> **HBO was available through Xtrim — but clients didn't know it, or didn't feel compelled to add it. The goal was simple: design a landing page that made the service impossible to ignore and the subscription easy to start.**
 
-- Eye-catching visuals and engaging content to attract potential subscribers.
-- User-friendly layout that facilitates easy navigation and access to information about the service.
-- Responsive design to ensure accessibility across devices.
+### Project Overview
 
-## Impact:
+In 2018, Xtrim / Grupo TVCable needed a dedicated landing page to promote the HBO streaming service to their existing client base and attract new subscribers in Ecuador. The page was designed to communicate the value of the service clearly, create visual excitement around the content offering, and convert visitors into paying subscribers.
 
-As a result of this project, HBO sales increased significantly, demonstrating the effectiveness of the landing page in converting visitors into subscribers. Boosted HBO sales through visually engaging pages with clear messaging and strong CTAs. Close collaboration with the sales teams.
+The design was handed off to the IT department for development, which adapted it to be responsive across devices.
 
-## Tools Used:
+---
 
-- Adobe Illustrator for graphics
-- Photoshop
+### Role
 
-## Link:
+UX/UI Designer · In-house · Xtrim / Grupo TVCable (2018)
 
-[Insert link to the landing page or images of the design]
+---
+
+### Design Approach
+
+![HBO Streaming Service Landing Page](../../../public/assets/images/projects/landingpage-HBO.jpg)
+
+The landing page was built around a single conversion goal — get the visitor to subscribe. Every design decision supported that objective.
+
+- High-quality licensed imagery provided directly by the HBO brand — ensuring visual authenticity and legal compliance
+- Parallax scrolling effect to create a sense of depth and modernity, reinforcing the premium feel of the service
+- Clear content hierarchy guiding the user from awareness to action
+- Strong CTAs strategically placed throughout the page
+- Close collaboration with the sales team to align messaging with active campaigns
+- Responsive layout — adapted by the IT department for mobile and tablet
+
+---
+
+### Tools
+
+- Adobe Illustrator — layout, graphics, and visual assets
+- Adobe Photoshop — image editing and composition
+- CMS — used by the IT department for development and content management
+
+---
+
+### Impact
+
+The landing page directly contributed to a measurable increase in HBO subscriptions through the Xtrim platform — validating the design's effectiveness in converting visitors into subscribers and demonstrating the business value of a well-executed, conversion-focused UX/UI approach.
