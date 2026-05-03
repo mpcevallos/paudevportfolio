@@ -25,6 +25,17 @@ UX/UI Designer · Frontend Developer · Academic Project · Team of 3 (2024)
 
 ### 🎨 Design System
 
+<div style="display: none;" class="figma-desktop">
+  <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0,0,0,0.1);"
+      src="https://embed.figma.com/design/MfrnhTj5ALfBNcOIU0vQcG/MMC?node-id=0-1&embed-host=share"
+      allowfullscreen
+      loading="lazy"
+    ></iframe>
+  </div>
+</div>
+
 A full design system was built in Figma before any code was written — establishing the visual foundation for every screen and component in the app.
 
 - Logo design created for the MMC brand
@@ -96,7 +107,7 @@ An interactive prototype of the application can be accessed here:
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0,0,0,0.1);"
-      src="https://embed.figma.com/design/MfrnhTj5ALfBNcOIU0vQcG/MMC?node-id=0-1&embed-host=share"
+      src="https://embed.figma.com/proto/MfrnhTj5ALfBNcOIU0vQcG/MMC?node-id=59-43&starting-point-node-id=59%3A43&embed-host=share"
       allowfullscreen
       loading="lazy"
     ></iframe>

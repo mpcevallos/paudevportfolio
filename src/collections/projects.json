@@ -4,7 +4,7 @@
 		"description": "Gym Website Design & Development",
 		"image": "/assets/images/projects/powerzone-website.png",
 		"url": "https://powerzonefitness.netlify.app/",
-		"url2": "/post/powerzone-subscription-app"
+		"url2": "/post/powerzone-subscription-app/"
 	},
 	{
 		"name": "PowerZone Ecommerce",
@@ -17,7 +17,7 @@
 		"name": "TVCable Store Ecommerce",
 		"description": "Online Store for Direct-to-Consumer (D2C) Sales",
 		"image": "/assets/images/projects/ecommerce-tvcablestore.jpg",
-		"url": "https://www.behance.net/gallery/164905263/TVCable-Store-E-Commerce",
+		"url": "/post/tvcable-store-ux-ui-web-design",
 		"url2": "/post/tvcable-store-ux-ui-web-design"
 	},
 	{
@@ -31,12 +31,14 @@
 		"name": "HBO Landing Page",
 		"description": "HBO Streaming Landing Page.",
 		"image": "/assets/images/projects/hbo-landingpage.jpg",
+		"url": "/post/hbo-streaming-landing-page",
 		"url2": "/post/hbo-streaming-landing-page"
 	},
 	{
 		"name": "Fox Landing Page",
 		"description": "FOX Streaming Landing Page",
 		"image": "/assets/images/projects/fox-landing-page.png",
+		"url": "/post/fox-streaming-landing-page",
 		"url2": "/post/fox-streaming-landing-page"
 	},
 	{
@@ -45,5 +47,12 @@
 		"image": "/assets/images/projects/mmc-webapp.png",
 		"url": "https://mmc-tfm-frontend.netlify.app/",
 		"url2": "/post/metabolic-medical-center-app"
+	},
+		{
+		"name": "VIU — Streaming App & Brand Design (Android, iOS & Web)",
+		"description": "Hollywood blockbusters for TVCable clients",
+		"image": "/assets/images/projects/viu_poster.jpg",
+		"url": "/post/viu-mobile-app-for-android-ios",
+		"url2": "/post/viu-mobile-app-for-android-ios"
 	}
 ]
