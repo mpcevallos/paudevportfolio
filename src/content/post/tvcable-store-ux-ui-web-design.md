@@ -5,7 +5,7 @@ description: The first e-commerce platform for Grupo TVCable — a fully deploye
 dateFormatted: Jun 4th, 2024
 ---
 
-![TVCable Store eCommerce](../../../public/assets/images/projects/banner_tvcablestore.jpg)
+![TVCable Store eCommerce](/assets/images/projects/banner_tvcablestore.jpg)
 
 > **TVCable had been in the Ecuadorian market for years — but with no online store, every sale still depended on a physical process. I was brought in to change that: naming the brand, designing the store, and delivering an experience modern enough to compete and convert.**
 
@@ -31,11 +31,11 @@ The absence of an e-commerce channel was a direct competitive disadvantage — T
 
 ### Brand & Visual Direction
 
-<img src="../../../public/assets/images/projects/tvcablestore.webp" alt="TVCable Store Logo" style="width: 400px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/tvcablestore.webp" alt="TVCable Store Logo" style="width: 400px; display: block; margin: 0 auto;" />
 
-|                                                             |                                                             |                                                             |                                                             |                                                                |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Icon 1](../../../public/assets/images/projects/icon1.png) | ![Icon 2](../../../public/assets/images/projects/icon2.png) | ![Icon 3](../../../public/assets/images/projects/icon3.png) | ![Icon 4](../../../public/assets/images/projects/icon4.png) | ![Icon 5](../../../public/assets/images/projects/appicon2.png) |
+|                                              |                                              |                                              |                                              |                                                 |
+| -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ----------------------------------------------- |
+| ![Icon 1](/assets/images/projects/icon1.png) | ![Icon 2](/assets/images/projects/icon2.png) | ![Icon 3](/assets/images/projects/icon3.png) | ![Icon 4](/assets/images/projects/icon4.png) | ![Icon 5](/assets/images/projects/appicon2.png) |
 
 TVCable Store was named and designed as its own brand identity within the TVCable ecosystem — distinct enough to feel modern, grounded enough to carry the company's established trust.
 
@@ -51,27 +51,27 @@ TVCable Store was named and designed as its own brand identity within the TVCabl
 
 **Homepage**
 
-<img src="../../../public/assets/images/projects/ecommerce-tvcablestore.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/ecommerce-tvcablestore.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Internet Service Page**
 
-<img src="../../../public/assets/images/projects/product_page_internet.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_internet.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Doble and Triple Pack Service Page**
 
-<img src="../../../public/assets/images/projects/product_page_doblepack.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_doblepack.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 <br>
-<img src="../../../public/assets/images/projects/product_page_triplepack.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_triplepack.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Streaming Service Page**
 
-<img src="/images/projects/streaming_service_page.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/streaming_service_page.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Service details window**
 
