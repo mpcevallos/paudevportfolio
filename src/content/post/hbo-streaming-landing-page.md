@@ -5,7 +5,7 @@ description: A landing page designed for Xtrim / Grupo TVCable to promote the HB
 dateFormatted: Dec 31, 2018
 ---
 
-![HBO Streaming Service Landing Page](../../../public/assets/images/projects/hbo-landingpage.jpg)
+![HBO Streaming Service Landing Page for convertion](../../../public/assets/images/projects/hbo_landing_mockup.png)
 
 > **HBO was available through Xtrim — but clients didn't know it, or didn't feel compelled to add it. The goal was simple: design a landing page that made the service impossible to ignore and the subscription easy to start.**
 
