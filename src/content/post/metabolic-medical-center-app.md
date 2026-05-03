@@ -46,7 +46,7 @@ A full design system was built in Figma before any code was written — establis
 
 **Color Schemes**
 
-<img src="../../../assets/images/projects/mmc_color_schemes.png" alt="MMC Color Schemes" style="width: 500px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/mmc_color_schemes.png" alt="MMC Color Schemes" style="width: 500px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Button Styles**
 

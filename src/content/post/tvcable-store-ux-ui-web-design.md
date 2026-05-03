@@ -71,18 +71,18 @@ TVCable Store was named and designed as its own brand identity within the TVCabl
 
 **Streaming Service Page**
 
-<img src="../../../public/assets/images/projects/streaming_service_page.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/images/projects/streaming_service_page.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Service details window**
 
-<img src="../../../public/assets/images/projects/viu_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/viu_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 <br>
 
-<img src="../../../public/assets/images/projects/fox_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/fox_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 <br>
-<img src="../../../public/assets/images/projects/nickjrnoggin_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/nickjrnoggin_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 <br>
-<img src="../../../public/assets/images/projects/mcafee_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/mcafee_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
@@ -90,25 +90,25 @@ TVCable Store was named and designed as its own brand identity within the TVCabl
 
 The coverage catalog allowed users to browse available plans filtered by city — covering all locations with national service availability across Ecuador.
 
-<img src="../../../public/assets/images/projects/product_page_internet_cities.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_internet_cities.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
 <br>
-<img src="../../../public/assets/images/projects/product_page_internet_others.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_internet_others.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Login & Registration**
 
-<img src="../../../public/assets/images/projects/tvcablestore_login.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/tvcablestore_login.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Checkout**
 
-<img src="../../../public/assets/images/projects/tvcablestore_cart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/tvcablestore_cart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Shopping Cart**
 
-<img src="../../../public/assets/images/projects/tvcable_shoppingcart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/tvcable_shoppingcart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
