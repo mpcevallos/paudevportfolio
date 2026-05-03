@@ -1,13 +1,13 @@
 ---
 layout: ../../layouts/post.astro
-title: TVCable Mobile Agencyl — Mobile App Design (Android & iOS)
+title: TVCable Mobile Agency — Mobile App Design (Android & iOS)
 description: TVCable Mobile Agency was the official mobile app for Grupo TVCable — designed to give clients 24/7 access to account management, payments, promotions, and support, available on Google Play and the App Store.
 dateFormatted: Dec 13, 2019
 ---
 
-![TVCable Agencia Móvil — Mobile App Design](../../../public/assets/images/projects/appmovil.jpg)
+![TVCable Mobile Agency — Mobile App Design](../../../public/assets/images/projects/appmovil.jpg)
 
-> **Grupo TVCable clients needed support around the clock — but the only option was calling. TTVCable Mobile Agencyl changed that: a branded app designed from scratch to put account management, payments, and promotions directly in the hands of every client, 24/7.**
+> **Grupo TVCable clients needed support around the clock — but the only option was calling. TVCable Mobile Agency changed that: a branded app designed from scratch to put account management, payments, and promotions directly in the hands of every client, 24/7.**
 
 ### Project Overview
 
@@ -40,37 +40,33 @@ Every screen in the app was designed end to end.
 
 **Login**
 
-![TVCable Mobile Agency Login](../../../public/assets/images/projects/login_app.jpg)
+<img src="/assets/images/projects/login_app.jpg" alt="TVCable Mobile Agency Login" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
+
+---
 
 **Home**
 
-![TVCable Mobile Agency Home](../../../public/assets/images/projects/home_app.png)
+<img src="/assets/images/projects/home_app.png" alt="TVCable Mobile Agency Home" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
 
-**Client Account**
+<img src="/assets/images/projects/alternative_menu.png" alt="TVCable Mobile Agency Alternative Menu" style="width: 35%; border-radius: 8px; display: block; margin: 1rem auto 0;" />
 
-![TVCable Mobile Agency Home](../../../public/assets/images/projects/screen_account_app.png)
+---
+
+**Client Profile**
+
+<img src="/assets/images/projects/screen_account_app.png" alt="TVCable Mobile Agency Client Profile" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Account Status**
 
-![TVCable Mobile Agency Account Status](../../../public/assets/images/projects/screen_account_app.png)
+<img src="/assets/images/projects/account_status.png" alt="TVCable Mobile Agency Account Status" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
-
-**Payments**
-
-![TVCable Agencia Móvil Payments](../../../public/assets/images/projects/xtrim-app-payments.jpg)
 
 **Promotions & Communications**
 
-![TVCable Agencia Móvil Promotions](../../../public/assets/images/projects/xtrim-app-promotions.jpg)
-
----
-
-**Profile**
-
-![TVCable Agencia Móvil Profile](../../../public/assets/images/projects/xtrim-app-profile.jpg)
+<img src="/assets/images/projects/promotions_app.jpg" alt="TVCable Mobile Agency Promotions" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
@@ -83,8 +79,10 @@ Every screen in the app was designed end to end.
 
 ### Value Delivered
 
-TVCable Agencia Móvil launched as Grupo TVCable's first mobile self-service channel — available 24 hours a day, 7 days a week, on both Android and iOS. The app gave clients direct access to payments, account status, promotions, and support without depending on physical offices or call centers. Every screen, every component, and the brand itself were created as part of this project.
+TVCable Mobile Agency launched as Grupo TVCable's first mobile self-service channel — available 24 hours a day, 7 days a week, on both Android and iOS. The app gave clients direct access to payments, account status, promotions, and support without depending on physical offices or call centers. Every screen, every component, and the brand itself were created as part of this project.
 
-## Download
+---
 
-- [Google Play →](https://play.google.com/store)
+### Availability
+
+TVCable Mobile Agency was published on both Google Play and the App Store for Android and iOS users. The app has since been discontinued as part of changes to the company's digital product strategy.

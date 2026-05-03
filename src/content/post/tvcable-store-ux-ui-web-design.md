@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/post.astro
-title: TVCable Store UX UI Web Design
+title: TVCable Store UX/UI Web Design
 description: The first e-commerce platform for Grupo TVCable — a fully deployed online store designed to modernize the purchase experience for TV, internet, telephony, and streaming services across Ecuador.
 dateFormatted: Jun 4th, 2024
 ---
 
-![TVCable Store eCommerce](../../../public/assets/images/projects/ecommerce-tvcablestore.jpg)
+![TVCable Store eCommerce](../../../public/assets/images/projects/banner_tvcablestore.jpg)
 
 > **TVCable had been in the Ecuadorian market for years — but with no online store, every sale still depended on a physical process. I was brought in to change that: naming the brand, designing the store, and delivering an experience modern enough to compete and convert.**
 
@@ -19,7 +19,7 @@ The project went from concept to live deployment, working alongside the IT depar
 
 ### Role
 
-UX/UI Designer · Team of 3 (Design + IT)
+UX/UI Designer · Team (Design + IT + Agency)
 
 ---
 
@@ -31,6 +31,12 @@ The absence of an e-commerce channel was a direct competitive disadvantage — T
 
 ### Brand & Visual Direction
 
+<img src="../../../public/assets/images/projects/tvcablestore.webp" alt="TVCable Store Logo" style="width: 400px; display: block; margin: 0 auto;" />
+
+|                                                             |                                                             |                                                             |                                                             |                                                                |
+| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------- |
+| ![Icon 1](../../../public/assets/images/projects/icon1.png) | ![Icon 2](../../../public/assets/images/projects/icon2.png) | ![Icon 3](../../../public/assets/images/projects/icon3.png) | ![Icon 4](../../../public/assets/images/projects/icon4.png) | ![Icon 5](../../../public/assets/images/projects/appicon2.png) |
+
 TVCable Store was named and designed as its own brand identity within the TVCable ecosystem — distinct enough to feel modern, grounded enough to carry the company's established trust.
 
 - Brand name created from scratch for the e-commerce channel
@@ -41,33 +47,42 @@ TVCable Store was named and designed as its own brand identity within the TVCabl
 
 ---
 
-### Promotional Video
-
----
-
 ### UX Flow & Screen Design
 
 **Homepage**
 
-![TVCable Store Homepage]
+<img src="../../../public/assets/images/projects/ecommerce-tvcablestore.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Internet Service Page**
 
-![TVCable Internet]
+<img src="../../../public/assets/images/projects/product_page_internet.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
-**TV Service Page**
+**Doble and Triple Pack Service Page**
 
-![TVCable TV]
+<img src="../../../public/assets/images/projects/product_page_doblepack.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="../../../public/assets/images/projects/product_page_triplepack.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Streaming Service Page**
 
-![TVCable Streaming]
+<img src="../../../public/assets/images/projects/streaming_service_page.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+
+**Service details window**
+
+<img src="../../../public/assets/images/projects/viu_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+
+<img src="../../../public/assets/images/projects/fox_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="../../../public/assets/images/projects/nickjrnoggin_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="../../../public/assets/images/projects/mcafee_product_details.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
@@ -75,19 +90,38 @@ TVCable Store was named and designed as its own brand identity within the TVCabl
 
 The coverage catalog allowed users to browse available plans filtered by city — covering all locations with national service availability across Ecuador.
 
-![TVCable Coverage Catalog]
+<img src="../../../public/assets/images/projects/product_page_internet_cities.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="../../../public/assets/images/projects/product_page_internet_others.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Login & Registration**
 
-![TVCable Login]
+<img src="../../../public/assets/images/projects/tvcablestore_login.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
 **Checkout**
 
-![TVCable Checkout]
+<img src="../../../public/assets/images/projects/tvcablestore_cart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+
+**Shopping Cart**
+
+<img src="../../../public/assets/images/projects/tvcable_shoppingcart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+
+---
+
+### Promotional Video
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin: 1rem 0;">
+  <iframe
+    src="https://www-ccv.adobe.io/v1/player/ccv/JTiRMXrXUJ9/embed?api_key=behance1&bgcolor=%23191919"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>
 
 ---
 
