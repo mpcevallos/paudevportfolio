@@ -93,7 +93,7 @@ Every screen in the app was designed end to end.
   </div>
 
   <div style="display: flex; gap: 12px; justify-content: center;">
-    <img src="/assets/images/projects/change_password.png" alt="Change Password" style="width: 46%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/change_password.png" alt="Change Password" style="width: 47%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
     <img src="/assets/images/projects/recover_password.png" alt="Recover Password" style="width: 45.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
   </div>
 
@@ -104,13 +104,20 @@ Every screen in the app was designed end to end.
 
   <div style="display: flex; gap: 12px; justify-content: center;">
     <img src="/assets/images/projects/billing_app.png" alt="Billing" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
-    <img src="/assets/images/projects/close_app.png" alt="Close App" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/notificacions.png" alt="Confirm Exit" style="width: 50%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
   </div>
 
-  <div style="display: flex; gap: 12px; justify-content: center;">
-    <img src="/assets/images/projects/confirm_exit.png" alt="Confirm Exit" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+   <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/faqs.png" alt="Billing" style="width: 36%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/faqs2.png" alt="Close App" style="width: 36%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/faqs3.png" alt="Confirm Exit" style="width: 36%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    
   </div>
-
+  
+<div style="display: flex; gap: 12px; justify-content: center;">
+     <img src="/assets/images/projects/close_app.png" alt="Close App" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+     <img src="/assets/images/projects/confirm_exit.png" alt="Confirm Exit" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
 </div>
 
 ### Tools

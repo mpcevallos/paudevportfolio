@@ -74,8 +74,8 @@ The platform's first major event was the Ecuador vs Bolivia friendly match on Se
 
 **VIU Sports Web**
 
-<img src="/assets/images/projects/viusports_landing1.png" alt="VIU Sports Landing Page" style="width: 100%; border-radius: 8px; display: block; margin: 0 auto;" />
-
+<img src="/assets/images/projects/viusports_landing1out.png" alt="VIU Sports Landing Page" style="width: 100%; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
 <img src="/assets/images/projects/viusports_landing2.png" alt="VIU Sports Landing Page" style="width: 100%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **VIU Sports Mobile Web**
