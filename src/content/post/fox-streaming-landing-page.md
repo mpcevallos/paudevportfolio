@@ -5,7 +5,7 @@ description: A landing page designed for Xtrim / Grupo TVCable to promote the FO
 dateFormatted: Dec 13, 2019
 ---
 
-![Landing Page for FOX Digital Platform](../../../public/assets/images/projects/fox_landing_mockup.png)
+![Landing Page for FOX Digital Platform](/assets/images/projects/fox_landing_mockup.png)
 
 > **FOX was part of the Xtrim Grupo TVCable content offering — but needed its own digital moment. The goal was a landing page that communicated the value of the app clearly and made the decision to download feel obvious.**
 
@@ -34,11 +34,11 @@ UX/UI Designer · In-house · Xtrim / Grupo TVCable (2019)
 
 ### Screen Design
 
-<img src="../../../public/assets/images/projects/fox-landing-page.png" alt="FOX Landing Page" style="width: 450px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/fox-landing-page.png" alt="FOX Landing Page" style="width: 450px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ### Mailing
 
-<img src="../../../public/assets/images/projects/fox_mailing.jpg" alt="FOX Landing Page" style="width: 450px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/fox_mailing.jpg" alt="FOX Landing Page" style="width: 450px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
