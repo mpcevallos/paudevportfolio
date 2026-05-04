@@ -16,18 +16,20 @@ const { title, description } = Astro.props;
     <!-- 👇 Aquí están tus etiquetas meta personalizadas -->
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta
+      name="keywords"
+      content="UX/UI Designer, Frontend Developer, Portfolio, Javascript, React, Astro, Figma, Adobe, Illustrator, Photoshop, Canva, Claude, ChatGPT, AI, Ecuador, Peru, Maria Paula Cevallos"
+    />
 
     <!-- Open Graph y Twitter Cards (opcional pero recomendado) -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://tusitio.com" />
-    <meta property="og:image" content="https://tusitio.com/og-image.jpg" />
-
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content="https://tusitio.com/og-image.jpg" />
+    <meta property="og:url" content="https://paudevportfolio.netlify.app/" />
+    <meta
+      property="og:image"
+      content="https://paudevportfolio.netlify.app/assets/images/og-image.jpg"
+    />
 
     <!-- Dark mode init -->
     <script is:inline>
