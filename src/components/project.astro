@@ -21,16 +21,20 @@ const { name, description, url, url2, image } = Astro.props;
   >
     <!-- Imagen -->
     <span class="block w-full">
-      <img
-        src={image}
-        class="w-full aspect-video rounded-lg object-cover object-top"
-      />
+      <a href={url2} rel="noopener noreferrer">
+        <img
+          src={image}
+          class="w-full aspect-video rounded-lg object-cover object-top"
+        />
+      </a>
     </span>
 
     <!-- Título y descripción -->
     <span class="block w-full px-1 mt-5 mb-1 sm:mt-3">
-      <span
-        class="flex items-center mb-0 text-base font-semibold tracking-tight text-neutral-900 dark:text-neutral-100"
+      <a
+        href={url2}
+        rel="noopener noreferrer"
+        class="flex items-center mb-0 text-base font-semibold tracking-tight text-neutral-900 dark:text-neutral-100 hover:text-purple-500 transition"
       >
         <span>{name}</span>
         <svg
@@ -61,7 +65,7 @@ const { name, description, url, url2, image } = Astro.props;
             </g>
           </g>
         </svg>
-      </span>
+      </a>
       <span
         class="text-sm text-neutral-600 dark:text-neutral-400 block truncate"
       >
@@ -74,7 +78,7 @@ const { name, description, url, url2, image } = Astro.props;
       <!-- Botón 1: Link externo -->
       <a
         href={url}
-        target="_blank"
+        href={url2}
         rel="noopener noreferrer"
         set:text="Preview"
         title="Preview"
@@ -103,7 +107,6 @@ const { name, description, url, url2, image } = Astro.props;
         url2 && (
           <a
             href={url2}
-            target="_blank"
             rel="noopener noreferrer"
             set:text="View Project"
             title="View Project"
