@@ -99,12 +99,15 @@ Every screen in the app was designed end to end.
 
   <div style="display: flex; gap: 12px; justify-content: center;">
     <img src="/assets/images/projects/account_status_out.png" alt="Account Status" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
-    <img src="/assets/images/projects/app_payments.png" alt="Payments" style="width: 38.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/notificacions.png" alt="Confirm Exit" style="width: 50%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  
   </div>
 
   <div style="display: flex; gap: 12px; justify-content: center;">
-    <img src="/assets/images/projects/billing_app.png" alt="Billing" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
-    <img src="/assets/images/projects/notificacions.png" alt="Confirm Exit" style="width: 50%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+      <img src="/assets/images/projects/billing_app.png" alt="Billing" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+      <img src="/assets/images/projects/app_payments.png" alt="Payments" style="width: 38.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+      <img src="/assets/images/projects/app_payments2.png" alt="Payments" style="width: 38.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+
   </div>
 
    <div style="display: flex; gap: 12px; justify-content: center;">
