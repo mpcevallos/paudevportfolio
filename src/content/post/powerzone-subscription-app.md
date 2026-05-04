@@ -7,7 +7,7 @@ dateFormatted: Dec 31, 2024
 
 ![PowerZone Gym Website Subscription App](../../../public/assets/images/projects/powerzone-website.png)
 
-> **Why is finding a gym and subscribing still so complicated in Latin America? That question was the starting point for PowerZone — a fitness web platform designed for young users who want to explore locations, meet trainers, and choose their plan without friction. I led the full UX/UI and contributed to frontend development within a team of three.**
+> **Why is finding a gym and subscribing still so complicated in Latin America? That question was the starting point for PowerZone — a fitness web platform designed for young users who want to explore locations, meet trainers, and choose their plan without friction. I led the full UX/UI and contributed to frontend development within a team of five.**
 
 ### Project Overview
 
@@ -64,7 +64,7 @@ Contributed to frontend implementation using React, JavaScript, and Tailwind CSS
 
 ### Figma Prototype
 
-**First Wireframe & Prototype**
+**Early prototype**
 
 The first iteration focused on mapping the core user flows before any visual decisions were made. This phase covered the foundational design system — typography, color palette, buttons, and icons — alongside the key screens: homepage, hero section, CTA, gym locations, trainer profiles, and subscription plan browsing. Together, these established the structure, visual language, and navigation logic that would guide every decision moving forward.
 
@@ -74,7 +74,7 @@ The first iteration focused on mapping the core user flows before any visual dec
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0,0,0,0.1);"
-      src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=5030-2304&embed-host=share"
+      src="https://embed.figma.com/design/pl1FmD9aQCRQmASY08gO8w/PowerZone?node-id=0-1&embed-host=share"
       allowfullscreen
       loading="lazy"
     ></iframe>
@@ -126,6 +126,10 @@ After 2 to 3 iteration rounds — including a full redesign of the Subscription 
   }
 </style>
 
+[Preview Prototype→](https://www.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=4463-3029&t=aV4P6klwCkE2Ei5R-1)
+<br>
+[Preview Interactive Prototype→](https://www.figma.com/proto/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=4463-5812&starting-point-node-id=4463%3A5812)
+
 ---
 
 **Mobile-First**
@@ -135,7 +139,7 @@ Mobile-first was the foundation of every design decision in PowerZone. Building 
 <div class="powerzone-mobile">
   <img
     src="/assets/images/projects/powerzone-mobile-preview.png"
-    style="width: 270px; border-radius: 8px;"
+    style="width: 270px; border-radius: 8px; display: block; margin: 0 auto;"
   />
 </div>
 
@@ -146,6 +150,8 @@ Mobile-first was the foundation of every design decision in PowerZone. Building 
 - Design: Figma — wireframes, UI mockups, interactive prototype
 - Framework: React + Node.js
 - Styling: Tailwind CSS
+
+[Frontend Git Repository →](https://github.com/mpcevallos/Frontend_gym2)
 
 **Backend**
 
