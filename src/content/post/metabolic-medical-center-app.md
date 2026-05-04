@@ -141,11 +141,15 @@ An interactive prototype of the application can be accessed here:
 - Styling: Bootstrap + Tailwind CSS
 - Deployment: Netlify
 
+![GitHub Frontend Repository->](https://github.com/mpcevallos/mmc-tfm)
+
 **Backend**
 
 - Runtime: Node.js
 - Database: MySQL
 - Deployment: Local
+
+![GitHub Backend Repository->](https://github.com/mpcevallos/mmc-tfm-server)
 
 **Design**
 
