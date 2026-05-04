@@ -156,8 +156,8 @@ An interactive prototype of the application can be accessed here:
 ### ✒️ Collaborators
 
 - **Marco Ramírez** — Backend Development & Documentation
-- **Franziska Stude** — Documentation
 - **María Paula Cevallos** — UX/UI Design, Frontend Development & Documentation
+- **Franziska Stude** — Documentation
 
 ---
 
