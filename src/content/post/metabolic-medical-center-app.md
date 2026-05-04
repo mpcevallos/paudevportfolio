@@ -46,15 +46,15 @@ A full design system was built in Figma before any code was written — establis
 
 **Color Schemes**
 
-<img src="/assets/images/projects/mmc_color_schemes.png" alt="MMC Color Schemes" style="width: 500px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/mmc_color_schemes.png" alt="MMC Color Schemes" style="width: 320px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Button Styles**
 
-<img src="/assets/images/projects/mmc_button_styles.png" alt="MMC Button Styles" style="width: 600px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/mmc_button_styles.png" alt="MMC Button Styles" style="width: 450px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Brand variations of colors and aplications**
 
-<img src="/assets/images/projects/mmc_logo.png" alt="MMC Logo" style="width: 500px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/mmc_logo.png" alt="MMC Logo" style="width: 320px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **Brand Horizontal orientation**
 
@@ -62,7 +62,7 @@ A full design system was built in Figma before any code was written — establis
 
 **Icons & Avatars**
 
-<img src="/assets/images/projects/mmc_icons_avatar.png" alt="MMC Icons and Avatars"  class="dark:invert" style="width: 600px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/mmc_icons_avatar.png" alt="MMC Icons and Avatars"  class="dark:invert" style="width: 250px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
