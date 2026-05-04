@@ -117,9 +117,9 @@ An interactive prototype of the application can be accessed here:
 <!-- Mobile -->
 <div class="figma-mobile">
   <img src="/assets/images/projects/mmc-webapp.png" style="width: 100%; border-radius: 8px;" />
-  <a href="https://www.figma.com/design/MfrnhTj5ALfBNcOIU0vQcG/MMC" target="_blank"
+  <a href="https://www.figma.com/design/MfrnhTj5ALfBNcOIU0vQcG/MMC"
      style="display: inline-block; margin-top: 12px; color: #a855f7; text-decoration: underline;">
-    Ver prototipo interactivo →
+    View Prototype →
   </a>
 </div>
 
@@ -141,7 +141,7 @@ An interactive prototype of the application can be accessed here:
 - Styling: Bootstrap + Tailwind CSS
 - Deployment: Netlify
 
-![GitHub Frontend Repository->](https://github.com/mpcevallos/mmc-tfm)
+[GitHub Frontend Repository->](https://github.com/mpcevallos/mmc-tfm)
 
 **Backend**
 
@@ -149,11 +149,13 @@ An interactive prototype of the application can be accessed here:
 - Database: MySQL
 - Deployment: Local
 
-![GitHub Backend Repository->](https://github.com/mpcevallos/mmc-tfm-server)
+[GitHub Backend Repository->](https://github.com/mpcevallos/mmc-tfm-server)
 
 **Design**
 
 - Figma — design system, wireframes, UI mockups, interactive prototype
+
+[Figma Prototype->](https://www.figma.com/design/MfrnhTj5ALfBNcOIU0vQcG/MMC?node-id=0-1&p=f&t=bv1nnS9JohvTGQs8-0)
 
 ---
 

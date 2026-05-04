@@ -101,12 +101,7 @@ After 2 to 3 iteration rounds — including a full redesign of the Subscription 
 
 <div style="display: none;" class="figma-desktop">
   <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0,0,0,0.1);"
-      src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=5030-2304&embed-host=share"
-      allowfullscreen
-      loading="lazy"
-    ></iframe>
+   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/u8mlRPtDkIS3321W3Ndei1/PowerZone---Gimnasios?node-id=4791-419&embed-host=share" allowfullscreen></iframe>
   </div>
 </div>
 

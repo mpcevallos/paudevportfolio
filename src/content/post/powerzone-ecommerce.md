@@ -80,9 +80,9 @@ The prototype covers the full e-commerce user journey — product listing, produ
 
 <div class="figma-mobile">
   <img src="/assets/images/projects/ecommerce-checkout.png" style="width: 100%; border-radius: 8px;" />
-  <a href="YOUR_FIGMA_PROTO_URL" target="_blank"
+  <a href="https://www.figma.com/proto/MO7Eja1gYLOKkYAFLaGMGw/PowerZone---eCommerce?node-id=4463-5354&starting-point-node-id=4463%3A5354" 
      style="display: inline-block; margin-top: 12px; color: #a855f7; text-decoration: underline;">
-    Ver prototipo interactivo →
+    View Interactive Prototype →
   </a>
 </div>
 
@@ -103,7 +103,7 @@ The prototype covers the full e-commerce user journey — product listing, produ
 
 **Repositories**
 
-- [Figma Design →](YOUR_FIGMA_DESIGN_URL)
+- [Figma Design →](https://www.figma.com/design/MO7Eja1gYLOKkYAFLaGMGw/PowerZone---eCommerce?t=78vQWRZTeou8F6HW-0L)
 
 ---
 

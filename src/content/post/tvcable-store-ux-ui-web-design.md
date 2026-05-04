@@ -19,29 +19,13 @@ The project went from concept to live deployment, working alongside the IT depar
 
 ### Role
 
-UX/UI Designer · Team (Design + IT)
+UX/UI Designer · Team (Design + IT) (2019-2020)
 
 ---
 
 ### Strategic Context
 
 The absence of an e-commerce channel was a direct competitive disadvantage — TVCable's competitors already had online purchase flows, and the company was losing potential customers to a slower, more friction-heavy sales process. Beyond acquisition, a digital store also meant better sales tracking, reduced operational overhead, and a significantly improved customer experience from first contact to contract.
-
----
-
-### Design Process
-
-The TVCable Store design went through multiple structured iteration rounds driven by a formal review process between the Marketing and IT departments. Each iteration was scoped around specific deliverables aligned with business and user experience goals:
-
-- Product definition — information architecture and visual design for each service offering
-- Additional products and upsell components
-- Product detail pages structured around billing and invoice data
-- Payment summary design — recurring and one-time values clearly communicated
-- Checkout form design optimized for conversion
-- General site refinements and design modifications based on stakeholder feedback
-- Promotional strategy definition and visual implementation
-
-This collaborative, requirements-driven process ensured the final design was both commercially aligned and user-centered.
 
 ---
 
@@ -127,6 +111,57 @@ The coverage catalog allowed users to browse available plans filtered by city �
 <img src="/assets/images/projects/tvcable_shoppingcart.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
+
+### Design Process
+
+The TVCable Store design went through multiple structured iteration rounds driven by a formal review process between the Marketing and IT departments. Each iteration was scoped around specific deliverables aligned with business and user experience goals:
+
+- Product definition — information architecture and visual design for each service offering
+- Additional products and upsell components
+- Product detail pages structured around billing and invoice data
+- Payment summary design — recurring and one-time values clearly communicated
+- Checkout form design optimized for conversion
+- General site refinements and design modifications based on stakeholder feedback
+- Promotional strategy definition and visual implementation
+
+This collaborative, requirements-driven process ensured the final design was both commercially aligned and user-centered.
+
+**Homepage v2**
+
+<img src="/assets/images/projects/tvcablestore_home_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+
+**Banners Section v2**
+
+<img src="/assets/images/projects/tvcablestore_banners_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+
+**Navigation Menu v2**
+
+<img src="/assets/images/projects/tvcablestore_menu_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="/assets/images/projects/tvcablestore_menu2_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+
+**Services Cards v2**
+
+<img src="/assets/images/projects/tvcablestore_services_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+
+**Cart v2**
+
+<img src="/assets/images/projects/tvcablestore_cart_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="/assets/images/projects/tvcablestore_opencart_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="/assets/images/projects/tvcablestore_cart_order_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+<img src="/assets/images/projects/tvcablestore_cart_billing_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+<br>
+
+**Footer**
+
+<img src="/assets/images/projects/tvcablestore_footer_iteration2.png" alt="TVCable Store Homepage" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ### Promotional Video
 
