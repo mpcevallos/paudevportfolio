@@ -5,7 +5,7 @@ description: TVCable Mobile Agency was the official mobile app for Grupo TVCable
 dateFormatted: Dec 13, 2019
 ---
 
-![TVCable Mobile Agency — Mobile App Design](../../../public/assets/images/projects/appmovil.jpg)
+![TVCable Mobile Agency — Mobile App Design](../../../public/assets/images/projects/home_app.png)
 
 > **Grupo TVCable clients needed support around the clock — but the only option was calling. TVCable Mobile Agency changed that: a branded app designed from scratch to put account management, payments, and promotions directly in the hands of every client, 24/7.**
 
@@ -34,7 +34,7 @@ With no existing app or digital product identity to build on, everything was cre
 
 ---
 
-### Screen Design
+### Early Prototype
 
 Every screen in the app was designed end to end.
 
@@ -45,8 +45,6 @@ Every screen in the app was designed end to end.
 ---
 
 **Home**
-
-<img src="/assets/images/projects/home_app.png" alt="TVCable Mobile Agency Home" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 <img src="/assets/images/projects/alternative_menu.png" alt="TVCable Mobile Agency Alternative Menu" style="width: 35%; border-radius: 8px; display: block; margin: 1rem auto 0;" />
 
@@ -69,6 +67,51 @@ Every screen in the app was designed end to end.
 <img src="/assets/images/projects/promotions_app.jpg" alt="TVCable Mobile Agency Promotions" style="width: 35%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
+
+### Final Prototype
+
+<div style="display: flex; flex-direction: column; gap: 12px;">
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/app_loading.png" alt="Loading Screen" style="width: 38.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/login_app.png" alt="Login" style="width: 42%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/register.png" alt="Register" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/home_app.png" alt="Home" style="width: 47.9%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/profile_app_tvcable.png" alt="Profile" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/profile_services_tvcable.png" alt="Profile Services" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/sidebar_menu.png" alt="Sidebar Menu" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/sidebar_menu_active_btn.png" alt="Sidebar Menu Active" style="width: 46.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/change_password.png" alt="Change Password" style="width: 46%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/recover_password.png" alt="Recover Password" style="width: 45.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/account_status_out.png" alt="Account Status" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/app_payments.png" alt="Payments" style="width: 38.5%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/billing_app.png" alt="Billing" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+    <img src="/assets/images/projects/close_app.png" alt="Close App" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+  <div style="display: flex; gap: 12px; justify-content: center;">
+    <img src="/assets/images/projects/confirm_exit.png" alt="Confirm Exit" style="width: 48%; max-width: 350px; border-radius: 8px; object-fit: contain;" />
+  </div>
+
+</div>
 
 ### Tools
 

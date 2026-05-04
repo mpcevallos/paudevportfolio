@@ -37,6 +37,14 @@ The VIU brand was created entirely from scratch — including multiple versions 
 
 ---
 
+### Screenshots
+
+<img src="/assets/images/projects/viu_app_screens.png" alt="VIU Sports Mobile Web" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
+
+<br>
+
+<img src="/assets/images/projects/viu_screen.png" alt="VIU Sports Landing Page" style="width: 80%; border-radius: 8px; display: block; margin: 0 auto;" />
+
 ### Web Banner
 
 <img src="/assets/images/projects/viu_banner.gif" alt="VIU Sports Web Banner" style="width: 800px; border-radius: 8px; display: block; margin: 0 auto;" />
@@ -66,9 +74,9 @@ The platform's first major event was the Ecuador vs Bolivia friendly match on Se
 
 **VIU Sports Web**
 
-<img src="/assets/images/projects/viusports_online.jpg" alt="VIU Sports Mobile Web" style="width: 900px; border-radius: 8px; display: block; margin: 0 auto;" />
-<br>
-<img src="/assets/images/projects/viusports_website.jpg" alt="VIU Sports Website" style="width: 900px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/viusports_landing1.png" alt="VIU Sports Landing Page" style="width: 100%; border-radius: 8px; display: block; margin: 0 auto;" />
+
+<img src="/assets/images/projects/viusports_landing2.png" alt="VIU Sports Landing Page" style="width: 100%; border-radius: 8px; display: block; margin: 0 auto;" />
 
 **VIU Sports Mobile Web**
 
