@@ -19,13 +19,29 @@ The project went from concept to live deployment, working alongside the IT depar
 
 ### Role
 
-UX/UI Designer · Team (Design + IT + Agency)
+UX/UI Designer · Team (Design + IT)
 
 ---
 
 ### Strategic Context
 
 The absence of an e-commerce channel was a direct competitive disadvantage — TVCable's competitors already had online purchase flows, and the company was losing potential customers to a slower, more friction-heavy sales process. Beyond acquisition, a digital store also meant better sales tracking, reduced operational overhead, and a significantly improved customer experience from first contact to contract.
+
+---
+
+### Design Process
+
+The TVCable Store design went through multiple structured iteration rounds driven by a formal review process between the Marketing and IT departments. Each iteration was scoped around specific deliverables aligned with business and user experience goals:
+
+- Product definition — information architecture and visual design for each service offering
+- Additional products and upsell components
+- Product detail pages structured around billing and invoice data
+- Payment summary design — recurring and one-time values clearly communicated
+- Checkout form design optimized for conversion
+- General site refinements and design modifications based on stakeholder feedback
+- Promotional strategy definition and visual implementation
+
+This collaborative, requirements-driven process ensured the final design was both commercially aligned and user-centered.
 
 ---
 
@@ -90,9 +106,9 @@ TVCable Store was named and designed as its own brand identity within the TVCabl
 
 The coverage catalog allowed users to browse available plans filtered by city — covering all locations with national service availability across Ecuador.
 
-<img src="/assets/images/projects/product_page_internet_cities.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_internet_cities.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 <br>
-<img src="/assets/images/projects/product_page_internet_others.jpg" alt="TVCable Store Homepage" style="width: 411px; border-radius: 8px; display: block; margin: 0 auto;" />
+<img src="/assets/images/projects/product_page_internet_others.jpg" alt="TVCable Store Homepage" style="width: 493px; border-radius: 8px; display: block; margin: 0 auto;" />
 
 ---
 
